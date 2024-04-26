@@ -1,5 +1,5 @@
-<p align="center">#  Hello👋, my name is Serhii</p>
-### 
+<p align="left">#  Hello👋, my name is Serhii</p>
+ 
 
 - How to reach me [LinkedIn](www.linkedin.com/in/sergey-lutsenko)
 
