@@ -1,7 +1,7 @@
 <p align="left">#  Hello👋, my name is Serhii</p>
  
 
-- How to reach me [LinkedIn](www.linkedin.com/in/sergey-lutsenko)
+ <p align="left">📲 How to reach me [LinkedIn](www.linkedin.com/in/sergey-lutsenko)
 
 ## 💡 About Me
 
