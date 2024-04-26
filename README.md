@@ -13,7 +13,6 @@
 - 📩 You can write to me at lytsenko.89@gmail.com
 
 
-## 🔨 Skills
 
 ### Frontend:
  
